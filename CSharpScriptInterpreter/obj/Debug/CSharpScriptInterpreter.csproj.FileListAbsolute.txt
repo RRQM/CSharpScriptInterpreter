@@ -1,0 +1,13 @@
+D:\C#ProgramCode\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.exe.config
+D:\C#ProgramCode\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.exe
+D:\C#ProgramCode\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.pdb
+D:\C#ProgramCode\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.csproj.CoreCompileInputs.cache
+D:\C#ProgramCode\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.exe
+D:\C#ProgramCode\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.pdb
+E:\C#Projects\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.exe.config
+E:\C#Projects\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.exe
+E:\C#Projects\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.pdb
+E:\C#Projects\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.csprojAssemblyReference.cache
+E:\C#Projects\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.csproj.CoreCompileInputs.cache
+E:\C#Projects\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.exe
+E:\C#Projects\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.pdb
