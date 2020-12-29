@@ -17,3 +17,9 @@ E:\CodeOpen\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScri
 E:\CodeOpen\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.csproj.CoreCompileInputs.cache
 E:\CodeOpen\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.exe
 E:\CodeOpen\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.pdb
+D:\OpenCode\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.exe.config
+D:\OpenCode\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.exe
+D:\OpenCode\CSharpScriptInterpreter\CSharpScriptInterpreter\bin\Debug\CSharpScriptInterpreter.pdb
+D:\OpenCode\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.csproj.CoreCompileInputs.cache
+D:\OpenCode\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.exe
+D:\OpenCode\CSharpScriptInterpreter\CSharpScriptInterpreter\obj\Debug\CSharpScriptInterpreter.pdb

@@ -31,8 +31,15 @@ namespace CSharpScriptInterpreter
             }
             else
             {
-                Console.WriteLine("请输入脚本路径：");
-                Run(Console.ReadLine());
+              string order=  Console.ReadLine();
+                if (File.Exists(order))
+                {
+                    Run(order);
+                }
+                else
+                {
+                    Order(order);
+                }
             }
 
 
